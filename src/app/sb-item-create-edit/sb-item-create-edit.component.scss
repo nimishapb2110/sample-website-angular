@@ -1,0 +1,15 @@
+.create-item-container{
+    margin: 5px;
+}
+
+.create-item-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-toolbar{
+    button {
+        flex: 1;
+        margin: 5px;
+    }
+}
